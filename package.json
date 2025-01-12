@@ -8,7 +8,7 @@
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "json-server -p 3007 -w tasks.json"
+    "start": "json-server -p 3007 -w db.json"
   },
   "author": "",
   "license": "ISC",
